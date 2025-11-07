@@ -126,3 +126,5 @@ ORDER BY
 * Export findings CSV and update the Day 2 table with 5 concrete findings from Security Hub.
 
 * Optional: enable **GuardDuty** and add a budget alarm for cost guardrails.
+
+Awaiting Security Hub Verification
